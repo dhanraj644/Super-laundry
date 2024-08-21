@@ -1,0 +1,21 @@
+﻿@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Syne';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(s/syne/v16/8vIS7w4qzmVxsWxjBZRjr0FKM_3mvg6jTYo.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Syne';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/syne/v16/8vIS7w4qzmVxsWxjBZRjr0FKM_3fvg6jTYo.ttf) format('truetype');
+}
